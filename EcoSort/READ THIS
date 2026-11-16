@@ -1,0 +1,16 @@
+HI this is the owner of this repository,
+attach on this folder is index.php for MINI Project making EcoSort
+an AI waste classification automation based on user description
+
+**TAKE NOTE**
+Im a student therefore i run the web system locally using XAMPP 
+use anything u can to run php file locally
+
+PROJECT SETUP
+1. Download Ollama AI https://ollama.com/download/windows
+2. After that go to terminal and run 
+ollama pull qwen3:4b
+*make sure same the version is exact same - yes the download is long wait pls
+3. You can check it by run
+ollama list
+*all the downloaded verison will be listed
